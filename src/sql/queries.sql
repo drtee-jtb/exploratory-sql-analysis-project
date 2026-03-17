@@ -22,7 +22,7 @@ SELECT * FROM observations;
 
 
 -- MISSION 1
--- Your query here;
+SELECT * FROM observations limit 10;
 
 -- MISSION 2
 -- Your query here;
